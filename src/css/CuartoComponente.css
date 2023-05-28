@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.CuartoComponente {
+    padding: 20px;
+    color: white;
+    background: black;
+}

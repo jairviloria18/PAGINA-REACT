@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.SegundoComponente {
+    padding: 30px 50px;
+    text-align: center;
+    background: black;
+}
+
+.SegundoComponente h2 {
+    color: white;
+}
+
+.SegundoComponente p {
+    color: white;
+    margin:30px 50px;
+}
+
+.SegundoComponente a {
+    background: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 10px;
+    color: black;
+}
+
+.SegundoComponente a:hover {
+    background: black;
+    color: white;
+}
